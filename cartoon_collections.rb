@@ -9,7 +9,7 @@ def list_dwarves(array)
     
     
     
- array.each_with_index do |index|
+ ["j", "h"].each_with_index do |index|
    
    puts index
 end
